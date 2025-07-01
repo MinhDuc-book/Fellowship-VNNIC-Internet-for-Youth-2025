@@ -89,14 +89,14 @@ In the current era of global integration,the Internet stands as one of the most 
 
 ---
 
-[1]  [Details of Resolution](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm)
-[2]  [Vietnam Internet Netwok Information Center](https://www.vnnic.vn)
-[2]  [Vietnam Internet Netwok Information Center](https://www.vnnic.vn/en/dns-vnix)
-[2]  [Vietnam Internet Netwok Information Center](https://vnnic.vn/en/report-on-vietnam-internet-resources?lang=en)
-[3]  [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/support/internet-infrastructure/)
-[3]  [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/statistics/)
-[3]  [Asia Pacific Network Information Centre (APNIC)](https://apnic.foundation/projects/research-and-internet-measurement/)
-[4]  [World Bank – Digital Transformation in Vietnam](https://blogs.worldbank.org/en/eastasiapacific/digital-transformation-vietnam-skills-must-transform-too)
-[4]  [World Bank – Digital Transformation in Vietnam](https://blogs.worldbank.org/en/eastasiapacific/digital-economy-vietnam-building-foundations-future-growth)
-[4]  [World Bank – Digital Transformation in Vietnam](https://documents.worldbank.org/curated/en/569101629869854640/pdf/Vietnam-Science-Technology-and-Innovation-Report-Policy-Brief.pdf)
+[1]  [Details of Resolution](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm).
+[2]  [Vietnam Internet Netwok Information Center](https://www.vnnic.vn).
+[2]  [Vietnam Internet Netwok Information Center](https://www.vnnic.vn/en/dns-vnix).
+[2]  [Vietnam Internet Netwok Information Center](https://vnnic.vn/en/report-on-vietnam-internet-resources?lang=en).
+[3]  [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/support/internet-infrastructure/).
+[3]  [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/statistics/).
+[3]  [Asia Pacific Network Information Centre (APNIC)](https://apnic.foundation/projects/research-and-internet-measurement/).
+[4]  [World Bank – Digital Transformation in Vietnam](https://blogs.worldbank.org/en/eastasiapacific/digital-transformation-vietnam-skills-must-transform-too).
+[4]  [World Bank – Digital Transformation in Vietnam](https://blogs.worldbank.org/en/eastasiapacific/digital-economy-vietnam-building-foundations-future-growth).
+[4]  [World Bank – Digital Transformation in Vietnam](https://documents.worldbank.org/curated/en/569101629869854640/pdf/Vietnam-Science-Technology-and-Innovation-Report-Policy-Brief.pdf).
 
